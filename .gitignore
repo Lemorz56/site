@@ -1,0 +1,17 @@
+# General
+.env
+node_modules/
+
+# ELM topics
+elm-stuff/
+repl-temp-*
+
+# Distribution + Build files
+dist/
+
+# Local SSL
+cert.pem
+key.pem
+
+# Tests
+.coverage/
