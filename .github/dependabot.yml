@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: "weekly"
     reviewers:
-      - "jamesrweb"
+      - "lemorz56"
     labels:
       - "npm"
       - "dependencies"
